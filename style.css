@@ -1,0 +1,16 @@
+body{
+    font-family: 'Consolas';
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  
+}
+
+.main{
+    background-color: #525E66;
+    color: #BF9999;
+    width: 200px;
+    padding: 20px;
+}
